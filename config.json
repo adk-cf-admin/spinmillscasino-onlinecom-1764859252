@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#161B23",
+            "lang-select-color": "#222829",
+            "bg-light": "#161B23",
+            "welcome-bonus-bg": "#161B23",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#26282D",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#00F100",
+            "text-head": "#26282D",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#00F100",
+            "yellow": "#FFFFFF",
+            "yellow-button": "#00F100",
+            "button-text": "#26282D",
+            "main-button-text": "#26282D",
+            "border-color": "#efefdc",
+            "casino-cards": "#161B23",
+            "bonus-border-head": "#3e3e3c",
+            "bonus-border": "#efeff0",
+            "pay-back": "#deeadf",
+            "providers-back": "#161B23",
+            "faq-label": "#161B23",
+            "bg-footer": "#161B23",
+            "copyright": "#e7e7d5",
+            "starColor": "#00F100",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "SpinMills",
+            "title": "SpinMills Casino | Play Online, Get Bonuses and Big Wins",
+            "description": "SpinMills is a modern online casino offering thousands of games, generous bonuses, secure payments, and fast withdrawals. Enjoy slots, live casino, and exciting tournaments today!\n",
+            "canonical": "spinmillscasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/894",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "spinmillscasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/895",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/896"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/897",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "SpinMills Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "SpinMills \u2014 Online Casino with Bonuses and Fast Payouts",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/898",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/899",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Over 9,000 games from top providers",
+                "Generous bonuses and daily cashback offers",
+                "Fast payouts with cryptocurrency support",
+                "Fully optimized mobile-friendly platform",
+                "Tournaments with prizes up to \u20ac3,000,000",
+                "Transparent loyalty system and VIP program",
+                "SSL encryption and player data protection"
+            ],
+            "advantagesAfterText": "SpinMills delivers a vast game selection and attractive bonuses, making gameplay exciting and rewarding. The casino ensures secure transactions, fast withdrawals, and supports cryptocurrencies for maximum convenience.\n",
+            "knowMore": "Know more",
+            "appTitle": "SpinMills App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/900",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "SpinMills App",
+            "mobileGooglePlayImageTitle": "SpinMills App",
+            "mobileIosImageTitle": "SpinMills App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About SpinMills",
+                "description1": "SpinMills provides massive bonuses and generous promotions, boosting your chances of big wins. Multi-million prize tournaments make gameplay even more exciting.\n",
+                "items": [
+                    "Bonus up to \u20ac2,200 + 350 free spins",
+                    "Tournaments with prizes up to \u20ac3,000,000",
+                    "Cashback up to 35% daily"
+                ],
+                "description2": "SpinMills is a modern online casino with a user-friendly interface and a wide range of games. The platform offers slots, table games, and live casino from leading providers. Players enjoy secure and stable gameplay thanks to strong data protection. The site is fully optimized for mobile devices, ensuring convenient access anytime. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/901",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Loyalty programs and regular promotions make gaming more rewarding. The casino supports multiple payment methods, including e-wallets and cryptocurrencies. Fast withdrawal processing builds user trust. Tournaments and missions add excitement and chances for big prizes. Transparent rules and fair play guarantee a positive experience. SpinMills combines convenience, security, and variety for ultimate enjoyment."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "SpinMills \u2014 a world of gaming and great opportunities",
+                "description": "<p>\nSpinMills is a modern online casino designed for those who value comfort, security, and variety. The platform brings together thousands of popular games, including slots, table classics, and live casino experiences, ensuring every player finds something they love. Its intuitive interface and mobile optimization allow seamless gaming anytime, anywhere.\n\n<\/p>\n<br>\n<p>\nSecurity and reliability are top priorities. All transactions are protected by advanced encryption technologies, and game fairness is verified by independent audits. This creates a trustworthy environment where players can focus on enjoying the experience.\n\n<\/p>\n<br>\n<p>\nSpinMills offers attractive bonuses and regular promotions that make gameplay even more exciting. A loyalty program provides extra benefits, while tournaments and missions add thrill and the chance for big wins. This casino is built to turn every visit into a memorable event.\n\n<\/p>\n<br>\n<p>\nConvenient payment options, including e-wallets and cryptocurrencies, ensure fast and secure transactions. Customer support is available 24\/7 to assist with any inquiries. SpinMills combines innovation, reliability, and entertainment, making it one of the best choices for online gaming enthusiasts.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at SpinMills\n\n<\/h3>\n\n<p>\nSpinMills offers convenient and secure payment options, ensuring players can easily deposit funds and withdraw winnings. The platform supports bank cards, e-wallets, and modern payment services, providing flexibility for all users. Additionally, the casino embraces cryptocurrencies, making transactions fast and anonymous.\n\n<\/p>\n<br>\n<p>\nPlayers can choose the most suitable method among popular solutions, including traditional bank transfers and innovative digital payments. All operations are processed through secure channels, guaranteeing the safety of both data and funds. This makes deposits and withdrawals smooth and hassle-free.\n\n<\/p>\n<br>\n<p>\nSpinMills also supports multiple currencies, including major global ones and digital assets. This allows players from different regions to enjoy the platform without restrictions or extra conversion costs. Such an approach makes the casino accessible and convenient for a worldwide audience.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Rules at SpinMills: Conditions and Restrictions\n\n<\/h3>\n\n<p>\nVisiting SpinMills online casino requires compliance with specific rules that ensure safety and comfort for all players. The primary condition is registration for adults only, guaranteeing adherence to legal requirements. Players must provide accurate information during account creation and complete verification when requested.\n\n<\/p>\n<br>\n<p>\nThe casino prohibits multiple accounts per person and any attempts at fraud or system manipulation. All activities on the platform must follow fair play principles. Violations may result in account suspension and forfeiture of winnings.\n\n<\/p>\n<br>\n<p>\nSpinMills also enforces financial integrity: deposits and withdrawals must be made using personal payment methods. Using third-party cards or wallets is strictly forbidden. Additionally, players must respect other participants and support staff, avoiding insults or inappropriate behavior.\n\n<\/p>\n<br>\n<p>\nThese rules are designed to create a secure and fair environment for everyone. Following them ensures a positive experience and protection of your funds and data.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey conditions and restrictions<\/h4>\n\n <ul>\n            <li>\u2022 \nRegistration allowed for adults only\n\n<\/li>\n            <li>\u2022 \nMandatory verification upon casino request\n\n<\/li>\n            <li>\u2022 \nMultiple accounts are strictly prohibited\n\n<\/li>\n            <li>\u2022 \nFraudulent actions and system abuse forbidden\n\n<\/li>\n\t    <li>\u2022 \nUse only personal payment methods\n\n<\/li>\n\t    <li>\u2022 \nOffensive language and misconduct in chat prohibited\n\n<\/li>\n\t    <li>\u2022 \nCompliance with fair play rules required\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Security at SpinMills\n<\/h3>\n\n<p>\nSpinMills operates under an international license issued by a recognized regulatory authority, ensuring legality and transparency of its operations. The license guarantees compliance with fair play standards and protection of user interests. All games undergo randomness checks, and random number generators are certified by independent auditors.\n\n<\/p>\n<br>\n<p>\nTo safeguard player data, SpinMills uses advanced SSL encryption, securing all transactions and personal information. This means your payment details and private data are fully protected against unauthorized access. Additionally, the platform implements extra security protocols to prevent fraud and cyberattacks.\n\n<\/p>\n<br>\n<p>\nSpinMills\u2019 privacy policy strictly governs the handling of personal data. The casino does not share information with third parties without user consent and uses it solely to provide services. All processes comply with international data protection standards, including GDPR.\n\n<\/p>\n<br>\n<p>\nIn short, SpinMills creates a secure gaming environment where every user can trust the safety of their funds and personal information. Its license, encryption, and strict privacy policy make the platform a reliable choice for online gaming.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpinMills Customer Support: Fast, Convenient, Accessible\n\n<\/h3>\n\n<p>\nSpinMills customer support is designed to ensure every player feels confident and comfortable. The casino offers multiple communication channels so users can choose the most convenient way to get assistance. The main options include live chat, email, and a phone line, all available 24\/7.\n\n<\/p>\n<br>\n<p>\nResponse time depends on the chosen channel, but live chat usually provides instant replies. Email is ideal for more detailed inquiries, while phone support is perfect for urgent issues. The service quality is rated highly: agents are polite, knowledgeable, and ready to help in any situation.\n\n<\/p>\n<br>\n<p>\nSpinMills caters to an international audience by offering support in multiple languages. This makes communication easy and clear for players worldwide. The primary goal of the support team is to resolve issues quickly and create a comfortable gaming environment.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat \u2014 instant responses\n\n<\/li>\n            <li>\u2022 \nEmail \u2014 for detailed inquiries\n\n<\/li>\n            <li>\u2022 \nPhone \u2014 quick assistance\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service features\n<\/h4>\n        <ul>\n            <li>\u2022 \n24\/7 availability\n\n<\/li>\n            <li>\u2022 \nHighly skilled support agents\n\n<\/li>\n       <li>\u2022 \nMultilingual assistance\n\n\n<\/li>\n\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  SpinMills",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpinMills Loyalty Program: Bonuses, Levels, and Benefits\n<\/h3>\n\n<p>\nThe SpinMills loyalty program is designed to reward active players and make gaming more profitable. It offers exclusive bonuses, cashback, free spins, and access to special promotions. Joining the program unlocks additional opportunities to boost winnings and enjoy premium benefits.\n\n<\/p>\n<br>\n<p>\nRegistration is automatic after creating an account and making the first deposit. Players start at the basic level and gradually increase their status by meeting activity requirements. The higher the level, the more bonuses and privileges become available.\n\n<\/p>\n<br>\n<p>\nThe system is based on earning points for bets placed in games. These points can be exchanged for free spins, bonus cash, or used to enter exclusive tournaments. The program includes several levels, each unlocking new advantages.\n\n<\/p>\n<br>\n<p>\nHigher tiers provide access to a personal manager, increased cashback, and exclusive gifts. Members also enjoy priority support and faster withdrawals, making SpinMills\u2019 loyalty program one of the most attractive in the online casino industry.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration requirements\n<\/h4>\n            <ul>\n            <li>\u2022 \nCreate an account on the platform\n\n<\/li>\n            <li>\u2022 \nMake the first deposit\n\n<\/li>\n            <li>\u2022 \nAccept loyalty program terms\n\n<\/li>\n\n  \n        <\/ul><br>\n   <h4 style = \"font-weight: bold; font-size: 24px;\">Levels and how to reach them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic: available immediately after registration\n\n<\/li>\n            <li>\u2022 \nSilver: active play and point accumulation\n\n<\/li>\n            <li>\u2022 \nGold: high betting and deposit volume\n\n<\/li>\n           <li>\u2022 \nPlatinum: maximum activity, personalized bonuses\n\n<\/li>\n\n  \n        <\/ul><br>\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Available bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nCashback up to 35% on lost bets\n\n<\/li>\n            <li>\u2022 \nFree spins on popular slots\n\n<\/li>\n       <li>\u2022 \nBonus cash for accumulated points\n\n<\/li>\n            <li>\u2022 \nExclusive promotions and tournaments with big prizes\n\n<\/li>\n            <li>\u2022 \nPersonal account manager for VIP players\n\n<\/li>\n            <li>\u2022 \nFaster withdrawals for top-tier members\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpinMills Bonuses and Special Offers: Maximum Opportunities for Players\n\n<\/h3>\n\n<p>\nSpinMills provides a wide range of bonuses and special offers that make gaming more exciting and rewarding. The casino regularly hosts promotions, tournaments, and seasonal events, giving players the chance to win extra prizes and exclusive rewards. These offers are available to both new and regular users, making the platform attractive for all types of players.\n\n<\/p>\n<br>\n<p>\nThe bonus policy includes welcome packages, weekly promotions, cashback, free spins, and special deals for popular games. Additionally, themed events tied to holidays and seasons offer opportunities to win big cash prizes or exclusive gifts.\n\n<\/p>\n<br>\n<p>\nPlayers can participate in tournaments with multi-million prize pools and complete gaming missions for extra bonuses. The promotional system is designed so that every visit brings new chances to win.\n\n<\/p>\n<br>\n<p>\nSpinMills also offers unique deals for slot lovers and live game fans, including boosted multipliers and extra free spins. All bonuses come with transparent terms, ensuring fair and secure gameplay.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain bonuses and offers\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome package: up to \u20ac2,200 + 350 free spins on first deposits\n<\/li>\n            <li>\u2022 \nWeekly promotions: \u201cDouble Luck Wednesday\u201d \u2014 50% bonus + 50 free spins\n\n<\/li>\n            <li>\u2022 \nCashback: up to 35% daily for active players\n\n<\/li>\n            <li>\u2022 \nTournaments: prize pools up to \u20ac3,000,000\n\n<\/li>\n\t    <li>\u2022 \nGaming missions: extra bonuses for completing tasks\n\n<\/li>\n\t    <li>\u2022 \nSeasonal events: holiday promos with exclusive prizes\n\n<\/li>\n\t    <li>\u2022 \nSpecial slot offers: boosted multipliers and free spins\n\n<\/li>\n\t    <li>\u2022 \nLive casino bonuses: extra bets and VIP games\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at SpinMills: Top Slots and Entertainment\n\n<\/h3>\n\n<p>\nSpinMills offers a vast selection of games, with popular slots and live casino experiences taking center stage. These games feature stunning graphics, engaging gameplay, and the potential for big wins. The casino partners with leading providers like Pragmatic Play, NetEnt, and Booongo, ensuring top-quality content.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy classic slots, modern video slots with bonus features, and progressive jackpots. The live casino delivers an authentic gaming atmosphere with professional dealers and interactive play. Additionally, mini-games and exclusive releases add variety to the experience.\n\n<\/p>\n<br>\n<p>\nEach game comes with unique features such as multipliers, free spins, bonus rounds, and special symbols. This makes gameplay not only thrilling but also strategic, allowing players to choose the best options for maximum rewards.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular SpinMills Games<\/h4>\n\n <ul>\n            <li>\u2022 \nSweet Bonanza \u2014 colorful slot with \u201cTumble\u201d feature and multipliers up to x100.\n<\/li>\n            <li>\u2022 \nGates of Olympus 1000 \u2014 legendary game with free spins and multipliers.\n\n<\/li>\n            <li>\u2022 \nRazor Returns \u2014 slot with progressive jackpots and bonus rounds.\n\n<\/li>\n            <li>\u2022 \nPirate Bonanza \u2014 adventure-themed slot with quests and hidden prizes.\n\n<\/li>\n\t    <li>\u2022 \nLive Roulette \u2014 classic roulette with live dealers in HD quality.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack VIP \u2014 premium blackjack version for experienced players.\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at SpinMills\n\n<\/h3>\n\n<p> \nSpinMills offers flexible betting limits suitable for both beginners and experienced players. Minimum and maximum stakes vary depending on the game type: slots, table games, and live casino have different ranges. This allows every user to choose a comfortable level of risk and strategy.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#00F100; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette(Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac2,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Jackpot Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac50<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at SpinMills: A World of Excitement and Shows\n\n<\/h3>\n\n<p>\nSpinMills is more than just an online casino; it\u2019s a full-scale entertainment platform where every visit feels like an event. In addition to standard games, the casino regularly hosts special activities that create a festive atmosphere. Unique shows, themed promotions, and tournaments allow players to enjoy not only winnings but also unforgettable experiences.\n\n<\/p>\n<br>\n<p>\nSeasonal events tied to holidays and special dates are a highlight of SpinMills. During these periods, the casino launches exclusive promotions with boosted bonuses, free spins, and prize giveaways. This adds extra excitement and lets players feel the holiday spirit without leaving home.\n\n<\/p>\n<br>\n<p>\nFor competitive players, SpinMills organizes large-scale tournaments with impressive prize pools. Participation offers the chance to win not only cash but also unique rewards such as gadgets and gift cards. Dynamic leaderboards make these events thrilling and competitive.\n\n<\/p>\n<br>\n<p>\nAdditionally, SpinMills hosts live entertainment shows featuring professional hosts who create the atmosphere of a real casino. These interactive events allow players to engage with each other and enjoy a lively, social gaming experience.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll entertainment and events\n<\/h4>\n\n <ul>\n            <li>\u2022 \nThemed promotions \u2014 holiday offers with bonuses and free spins.\n\n<\/li>\n            <li>\u2022 \nSeasonal tournaments \u2014 competitions with multi-million prize pools.\n\n<\/li>\n            <li>\u2022 \nGaming missions \u2014 tasks with extra rewards and bonuses.\n\n<\/li>\n            <li>\u2022 \nLive shows \u2014 interactive games with hosts and live dealers.\n\n<\/li>\n\t    <li>\u2022 \nPrize giveaways \u2014 gadgets, gift cards, and exclusive rewards for active players.\n\n<\/li>\n\t    <li>\u2022 \nVIP events \u2014 private promotions for loyalty program members.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at SpinMills\n\n<\/h3>\n\n<p>\nSpinMills offers convenient and secure withdrawal options, ensuring players can access their winnings quickly. The casino supports a wide range of payment systems, including bank cards, e-wallets, and cryptocurrencies. All transactions are processed through secure channels, guaranteeing the safety of funds and personal data.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets and cryptocurrencies provide the fastest transactions \u2014 usually within 24 hours. Bank transfers take longer, from 1 to 7 business days. Verification may be required before withdrawals, especially for large amounts.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits also vary by player status. New users can withdraw up to \u20ac500 per transaction, while regular players enjoy limits of up to \u20ac20,000 per month. This ensures financial security and prevents fraudulent activity.\n\n<\/p>\n<br>\n<p>\nSpinMills focuses on transparency and convenience for all users. Fast processing, popular payment options, and strong data protection make withdrawals smooth and reliable.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank cards (Visa, MasterCard) \u2014 up to 3\u20137 days\n\n<\/li>\n            <li>\u2022 \nE-wallets (MiFinity, Revolut) \u2014 within 24 hours\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum, Tether) \u2014 within 12\u201324 hours\n\n<\/li>\n \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nE-wallets and crypto \u2014 up to 24 hours\n\n<\/li>\n            <li>\u2022 \nBank transfer \u2014 1\u20137 business days\n\n\n<\/li>\n   \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n<\/h4>\n\n <ul>\n            <li>\u2022 \nNew players \u2014 up to \u20ac500 per transaction\n\n<\/li>\n            <li>\u2022 \nRegular players \u2014 up to \u20ac20,000 per month\n<\/li>\n \n        <\/ul><br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": " Is verification required for withdrawals?",
+                    "answer": "Yes, verification is mandatory for large sums or suspicious transactions. Usually, you need to upload an ID document.\n"
+                },
+                {
+                    "title": "How does the point system work?",
+                    "answer": "Points are earned for bets and can be exchanged for bonuses or tournament entries.\n"
+                },
+                {
+                    "title": "Can I cancel a bonus after activation?",
+                    "answer": "No, once activated, the bonus must be wagered according to the terms.\n"
+                },
+                {
+                    "title": "Is there protection against gambling addiction?",
+                    "answer": "Yes, tools for self-limitation are available: deposit limits and temporary account suspension.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/902",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "SpinMills"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
